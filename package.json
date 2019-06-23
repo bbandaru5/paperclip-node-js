@@ -1,0 +1,29 @@
+{
+  "name": "com.paperclip",
+  "version": "1.0.0",
+  "description": "Your favorite bookmark app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "Bharath Bandaru",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "express": "^4.17.1",
+    "firebase": "^6.2.2",
+    "install": "^0.12.2",
+    "metascraper": "^5.5.2",
+    "metascraper-author": "^5.5.0",
+    "metascraper-clearbit": "^5.5.0",
+    "metascraper-date": "^5.5.0",
+    "metascraper-description": "^5.5.0",
+    "metascraper-image": "^5.5.0",
+    "metascraper-logo": "^5.5.0",
+    "metascraper-publisher": "^5.5.0",
+    "metascraper-title": "^5.5.0",
+    "metascraper-url": "^5.5.0",
+    "metascraper-youtube": "^5.5.0"
+  }
+}
