@@ -11,6 +11,9 @@ exports.routesConfig = function (app) {
     app.get('/get-bookmarks', [
         BookMarksController.getBookMarks
     ]);
+    app.post('/save-bookmarks', [
+        BookMarksController.saveBookMarks
+    ]);
     app.get('/get-meta-data',[
         MetaDataController.get
     ]);
