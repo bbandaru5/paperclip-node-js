@@ -13,6 +13,7 @@
     "babel-preset-es2015": "^6.24.1",
     "express": "^4.17.1",
     "firebase": "^6.2.2",
+    "firebase-admin": "^8.2.0",
     "install": "^0.12.2",
     "metascraper": "^5.5.2",
     "metascraper-author": "^5.5.0",

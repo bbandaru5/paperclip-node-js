@@ -9,6 +9,7 @@ const metascraper = require('metascraper')([
     require('metascraper-title')(),
     require('metascraper-url')()
   ])
+var metadata;  
 const got = require('got')
 // get metadata
 exports.get = (req, res) => {
