@@ -4,6 +4,7 @@
   "description": "Your favorite bookmark app.",
   "main": "app.js",
   "scripts": {
+    "start": "node_modules/.bin/babel-node app.js",
     "test": "app.js"
   },
   "author": "Bharath Bandaru",
