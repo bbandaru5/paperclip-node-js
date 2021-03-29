@@ -6,7 +6,7 @@ var serviceAccount = require("../myjson.json");
 // Initialize the app with a service account, granting admin privileges
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://paperclip-285b4.firebaseio.com/"
+  databaseURL: "https://paper-clip-8c79d.firebaseio.com/"
 });
 
 // As an admin, the app has access to read and write all data, regardless of Security Rules
