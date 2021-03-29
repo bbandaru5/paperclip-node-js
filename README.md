@@ -1,6 +1,6 @@
 # paperclip-node-js
 > PaperClip
 <br>
-input: url
+Backend node application to get image, title, desc from url.
 <br>
-Generates thumbnail image, name and more
+
