@@ -1,2 +1,6 @@
 # paperclip-node-js
-PaperClip
+> PaperClip
+<br>
+input: url
+<br>
+Generates thumbnauil image, name and more
