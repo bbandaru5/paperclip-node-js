@@ -3,4 +3,4 @@
 <br>
 input: url
 <br>
-Generates thumbnauil image, name and more
+Generates thumbnail image, name and more
